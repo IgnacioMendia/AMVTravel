@@ -1,0 +1,19 @@
+.appBar {
+    background-color: #e61616;
+}
+
+.logo {
+    margin-right: auto;
+    height: 40px;
+}
+
+.navButtons {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.buttonNav {
+    color: red;
+    margin-left: 16px;
+}
