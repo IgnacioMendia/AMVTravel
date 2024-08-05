@@ -1,1 +1,6 @@
+API:
+Se puede correr directamente desde el visual studio, no necesita ninguna configuración
 
+Front:
+El front lo hice con ViteJs por lo tanto se inicia desde la terminal con npm run dev y solo requiere en el archivo main.jsx, 
+que se encuentra en la carpeta src, colocarle la url de la Api, con su puerto correspondiente
